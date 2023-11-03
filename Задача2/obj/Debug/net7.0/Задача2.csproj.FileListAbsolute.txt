@@ -1,0 +1,14 @@
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\bin\Debug\net7.0\Задача2.exe
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\bin\Debug\net7.0\Задача2.deps.json
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\bin\Debug\net7.0\Задача2.runtimeconfig.json
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\bin\Debug\net7.0\Задача2.dll
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\bin\Debug\net7.0\Задача2.pdb
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\obj\Debug\net7.0\Задача2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\obj\Debug\net7.0\Задача2.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\obj\Debug\net7.0\Задача2.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\obj\Debug\net7.0\Задача2.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\obj\Debug\net7.0\Задача2.dll
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\obj\Debug\net7.0\refint\Задача2.dll
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\obj\Debug\net7.0\Задача2.pdb
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\obj\Debug\net7.0\Задача2.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\array\two-dimensional-array2\Задача2\obj\Debug\net7.0\ref\Задача2.dll
